@@ -1,0 +1,24 @@
+@charset "UTF-8";
+/*fonts*/
+@font-face {
+  font-family: "uzSans";
+  src: url("../fonts/uzSans-Bold.eot");
+  src: local("☺"), url("../fonts/UZSans-Bold.woff") format("woff"), url("../fonts/UZSans-Bold.ttf") format("truetype"), url("../fonts/UZSans-Bold.svg") format("svg");
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "uzSans";
+  src: url("../fonts/UZSans-Medium.eot");
+  src: local("☺"), url("../fonts/UZSans-Medium.woff") format("woff"), url("../fonts/UZSans-Medium.ttf") format("truetype"), url("../fonts/UZSans-Medium.svg") format("svg");
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: "uzSans";
+  src: url("../fonts/UZSans-Regular.eot");
+  src: local("☺"), url("../fonts/UZSans-Regular.woff") format("woff"), url("../fonts/UZSans-Regular.ttf") format("truetype"), url("../fonts/UZSans-Regular.svg") format("svg");
+  font-weight: 400;
+  font-style: normal;
+}
+/*--------------------*/
